@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73158295-d6c9-4476-8f72-f65c5db9e407" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Attributes/AttributesManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Attributes/AttributesManager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/DefaultRequestDispatcher.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/DefaultRequestDispatcher.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/DefaultRequestDispatcherBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/DefaultRequestDispatcherBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapperBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapperBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/DefaultRequestHandlerChain.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/DefaultRequestHandlerChain.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/GenericRequestHandlerChain.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/GenericRequestHandlerChain.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/GenericRequestHandlerChainBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/GenericRequestHandlerChainBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/HandlerInput.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/HandlerInput.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/HandlerInputBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Request/Handlers/HandlerInputBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Request/Mappers/DefaultRequestMapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Request/Mappers/DefaultRequestMapper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dispatcher/Request/Mappers/DefaultRequestMapperBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher/Request/Mappers/DefaultRequestMapperBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skill.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skill.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SkillBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/SkillBuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,10 +66,10 @@
         <counts>
           <entry key="PHP//Users/vasily/Projects/alexa/alexa-skills-kit-core" value="1" />
           <entry key="PHP/\Alexa\Attributes\Persistence\PersistenceAdapter" value="1" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="json" value="2" />
           <entry key="md" value="1" />
-          <entry key="php" value="225" />
+          <entry key="php" value="227" />
           <entry key="xml" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -94,8 +78,8 @@
         <counts>
           <entry key="JSON" value="2" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="225" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PHP" value="227" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="UML" value="2" />
           <entry key="XML" value="2" />
           <entry key="YAML" value="2" />
@@ -103,6 +87,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="6" />
           <entry key="json" value="2" />
           <entry key="md" value="129" />
           <entry key="php" value="14672" />
@@ -114,6 +99,7 @@
           <entry key="JSON" value="2" />
           <entry key="Markdown" value="129" />
           <entry key="PHP" value="14672" />
+          <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="64" />
         </counts>
       </usages-collector>
@@ -122,13 +108,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/DefaultHandlerAdapter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="752">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="416">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
                 <element signature="e#46#97#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -146,21 +150,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/GenericRequestHandlerChain.php">
+        <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/ExceptionMapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+            <state relative-caret-position="368">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#53#114#0#PHP" expanded="true" />
+                <element signature="e#46#97#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapperBuilder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="177">
               <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
@@ -208,27 +212,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/RequestHandlerChain.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <element signature="e#53#114#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/RequestHandler.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -246,7 +229,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Builder/SkillBuilder.php" />
         <option value="$PROJECT_DIR$/src/Builders/CustomSkillBuilder.php" />
         <option value="$PROJECT_DIR$/src/Builders/SkillConfiguration.php" />
@@ -290,6 +272,7 @@
         <option value="$PROJECT_DIR$/src/Dispatcher/Request/Mappers/DefaultRequestMapper.php" />
         <option value="$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapper.php" />
         <option value="$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapperBuilder.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -686,29 +669,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/GenericRequestHandlerChainBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding>
             <element signature="e#53#114#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/ExceptionMapper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#46#97#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -860,13 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/DefaultHandlerAdapter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SkillBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -908,13 +867,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/RequestHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/HandlerAdapter.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
@@ -968,10 +920,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapper.php">
+    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/DefaultHandlerAdapter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="752">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="64">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Request/Handlers/HandlerAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/ExceptionMapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#46#97#0#PHP" expanded="true" />
           </folding>
@@ -980,8 +946,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapperBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="177">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dispatcher/Exception/DefaultExceptionMapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#46#97#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
