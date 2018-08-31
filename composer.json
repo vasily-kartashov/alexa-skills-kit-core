@@ -1,0 +1,18 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Alexa\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "psr/log": ">=1.0",
+    "vasily-kartashov/alexa-skill-kit-model": "*"
+  },
+  "require-dev": {
+    "jakub-onderka/php-parallel-lint": "*",
+    "phpunit/phpunit": "5.*",
+    "squizlabs/php_codesniffer": "*",
+    "vimeo/psalm": "*"
+  }
+}
